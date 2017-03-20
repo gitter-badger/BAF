@@ -30,4 +30,4 @@ TODO list(reported bugs)
 list of contributers 
 - [x] ahmed maher
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
+<a href="https://github.com/engMaher">Ahmed Maher</a>
