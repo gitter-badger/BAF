@@ -11,9 +11,14 @@ features TODO list
 - [x] custom search that exports the targets ips / open ports to text file for custom attacks  
 - [x] serially open admin/admin webcams login pages
 - [ ] loging into hosts through common services telnet,ssh,ftp,.. etc of the hosts with default credentials
-- [ ] automated test of sql databases with specific shodan dorks [using sql map]
-- [ ] 
+- [ ] automatic search / exploitation of common vulnerabilities on different patforms 
 
 
 reported bugs TODO list 
 - [x] NONE 
+
+the framework is under development so both testers and contributers will definitely help ... so , active testers and bug reporters can help us developing the TODO list of the framework & enjoy watching their TODO wishes - next to their names - come true :) 
+
+list of active testers / bug reporters 
+
+- [ ] NONE
