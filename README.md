@@ -22,7 +22,7 @@ the framework is under development so both testers and contributers are more tha
 
 how can a pull request be definitely merged?
 * adds new from the TODO 
-* corrects mistakes in the old 
+* patces bugs from the TODO 
 
 TODO list(features) in the free version 
 - [x] custom search that exports the targets ips / open ports to text file for custom attacks  
