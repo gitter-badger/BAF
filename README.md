@@ -7,7 +7,7 @@ what is this?
 
 TODO list 
 
-- [ x ] custom search that exports the targets ips / open ports to text file for custom attacks  
-- [ x ] serially open admin/admin webcams
-- [   ] penetrating common services of the hosts with default credentials
+- [x] custom search that exports the targets ips / open ports to text file for custom attacks  
+- [x] serially open admin/admin webcams
+- [ ] penetrating common services of the hosts with default credentials
 
