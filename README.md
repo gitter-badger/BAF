@@ -10,7 +10,7 @@ what is BAF ?
 
 how to use BAF ? 
 * fire up a terminal and sudo apt-get update && apt-get upgrade && apt-get dist-upgrade
-* install requests , httplib , urllib , time , bs4 "BeautifulSoup" , selenium , sys python modules 
+* install [ requests , httplib , urllib , time , bs4 "BeautifulSoup" , selenium , sys ] python modules 
 * python BAF_0.1.0.py
 
 how to contribute? 
@@ -21,7 +21,7 @@ the framework is under development so both testers and contributers are more tha
 * contributers who provide (continuous - dramatic) <a href="https://guides.github.com/activities/contributing-to-open-source/">merged pull requests</a> will be owners and they will have a share in the pro version profit 
 
 how can a pull request be definitely merged?
-* adds new
+* adds new from the TODO 
 * corrects mistakes in the old 
 
 TODO list(features) in the free version 
@@ -40,10 +40,13 @@ TODO list(features) in the pro/paid version
 - [ ] whatever framework capabilitiy that requires tremendous work and totally engineered & programmed by the owners/paid contributers
 
 TODO list(reported bugs) in free version
-- [x] NONE 
+- [x] <a href="https://github.com/engMaher/BAF/edit/master/README.md">NONE</a> 
 
 TODO list(reported bugs) in paid version
-- [x] NONE 
+- [x] <a href="https://github.com/engMaher/BAF/edit/master/README.md">NONE</a> 
 
-list of contributers 
+list of owners 
 - [x] <a href="https://github.com/engMaher">Ahmed Maher (owner)</a>
+
+list of contributers
+- [x] <a href="https://github.com/engMaher/BAF/edit/master/README.md">NONE</a>
