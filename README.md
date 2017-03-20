@@ -28,6 +28,4 @@ TODO list(reported bugs)
 - [x] NONE 
 
 list of contributers 
-- [x] ahmed maher
-
-<a href="https://github.com/engMaher">Ahmed Maher</a>
+- [x] <a href="https://github.com/engMaher">Ahmed Maher</a>
