@@ -1,9 +1,9 @@
 # BAF 0.1.0
 Blind Attacking Framework
 
-version [0.1.0] --> [(public releases).(beta versions).(bugfixes patches)]
+* version [0.1.0] --> [(public releases).(beta versions).(bugfixes patches)]
 
-this framework is under  AGPLv3 license 
+* this framework is under  AGPLv3 license 
 
 ______________________________________________________________________________________________________________________________
 what is BAF ? 
