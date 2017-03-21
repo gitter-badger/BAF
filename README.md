@@ -48,13 +48,13 @@ TODO list(features) in the pro/paid version
 - [ ] whatever framework capabilitiy that requires tremendous work and totally engineered & programmed by the owners/paid contributers
 
 TODO list(reported bugs) in free version
-- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE</a> 
+- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE yet</a> 
 
 TODO list(reported bugs) in paid version
-- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE</a> 
+- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE yet</a> 
 
 list of owners 
-- [x] <a href="https://github.com/engMaher">Ahmed Maher (owner)</a>
+- [x] <a href="https://github.com/engMaher">Ahmed Maher</a>
 
 list of contributers
-- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE</a>
+- [x] <a href="https://github.com/engMaher/BAF/blob/master/README.md">NONE yet</a>
