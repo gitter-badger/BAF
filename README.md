@@ -21,6 +21,10 @@ how to use BAF ?
 * that's all , till now :)
 * beta versions will make automated browser open for better understanding ,but you can close the webcam tabs freely 
 
+pictures from the framework
+![alt tag](http://url/to/img.png)
+
+
 how to contribute? 
 
 the framework is under development so both testers and contributers are more than welcome to help ... so , 
@@ -38,7 +42,7 @@ TODO list(features) in the free version
 - [ ] loging into hosts through common services telnet,ssh,ftp,.. etc of the hosts with default credentials
 - [ ] bruteforcing webcams login pages
 - [ ] automatic search / exploitation of common vulnerabilities on different patforms 
-- [ ] abstracing the project for being efficiently embedded into hacking enviroments/ pentesting labs 
+- [ ] handling exceptions and abstracing the project for being efficiently embedded into hacking enviroments/ pentesting labs 
 - [ ] rest in peace :)
 
 TODO list(features) in the pro/paid version  
