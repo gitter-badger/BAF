@@ -16,9 +16,10 @@ how to use BAF ?
 * install [ requests , httplib , urllib , time , bs4 "BeautifulSoup" , selenium , sys ] python modules 
 * python BAF_0.1.0.py
 * enter your shodan's account username and pass
-* choose 1 , let it do it's job , press y , close the previous tab , press y ,close the previous tabs ...etc till u have the opening        cams only 
+* choose 1 , let it do it's job , press y , close the previous tab , press y ,close the previous tabs ...etc till u have the vulnerable        cams only 
 * choose 2 , enter what do u want to search for (ie: NSA) , when it's done , refer to the targets text file , it will contain the targets ip:port
 * that's all , till now :)
+* DON'T close a loading webpage 
 * beta versions will make automated browser open for better understanding ,but you can close the webcam tabs freely 
 
 pictures from the framework
