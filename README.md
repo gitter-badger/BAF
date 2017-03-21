@@ -23,7 +23,9 @@ how to use BAF ?
 * beta versions will make automated browser open for better understanding ,but you can close the webcam tabs freely 
 
 pictures from the framework
-![alt tag](http://url/to/img.png)
+![alt tag](http://www12.0zz0.com/2017/03/22/01/185064220.png)
+![alt tag](http://www12.0zz0.com/2017/03/22/01/220329359.png)
+![alt tag](http://www12.0zz0.com/2017/03/22/01/341433832.png)
 
 
 how to contribute? 
