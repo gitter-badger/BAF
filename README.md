@@ -25,7 +25,7 @@ how to use BAF ?
 pictures from the framework
 ![alt tag](http://www12.0zz0.com/2017/03/22/01/185064220.png)
 ![alt tag](http://www12.0zz0.com/2017/03/22/01/220329359.png)
-![alt tag](http://www12.0zz0.com/2017/03/22/01/341433832.png)
+![alt tag](http://www.up-00.com/VcNyJ8n7)
 
 
 how to contribute? 
