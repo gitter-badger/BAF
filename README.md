@@ -13,7 +13,7 @@ what is BAF ?
 
 how to use BAF ? 
 * fire up a terminal and sudo apt-get update && apt-get upgrade && apt-get dist-upgrade
-* install [ requests , httplib , urllib , time , bs4 "BeautifulSoup" , selenium , sys ] python modules 
+* install [ requests , httplib , urllib , time , bs4 "BeautifulSoup" , colored , selenium , sys ] python modules 
 * python BAF_0.1.0.py
 * enter your shodan's account username and pass
 * choose 1 , let it do it's job , press y , close the previous tab , press y ,close the previous tabs ...etc till u have the vulnerable        cams only 
