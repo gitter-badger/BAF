@@ -46,9 +46,10 @@ TODO list(features) in the free version
 - [ ] bruteforcing webcams login pages
 - [ ] automatic search / exploitation of common vulnerabilities on different patforms 
 - [ ] handling exceptions and abstracing the project for being efficiently embedded into hacking enviroments/ pentesting labs 
-- [ ] rest in peace :)
+- [ ] rest in peace / pull new features from community :)
 
-TODO list(features) in the pro/paid version  
+TODO list(features) in the pro/paid version 
+- [ ] contact shodan creators 
 - [ ] GUI
 - [ ] automated custom fuzzing 
 - [ ] 0-day vulnerabilities mass exploitation 
