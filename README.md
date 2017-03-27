@@ -1,4 +1,6 @@
 # BAF 0.1.0
+
+[![Join the chat at https://gitter.im/BAF_123456/Lobby](https://badges.gitter.im/BAF_123456/Lobby.svg)](https://gitter.im/BAF_123456/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Blind Attacking Framework
 
 * version [0.1.0] --> [(public releases).(beta versions).(bugfixes patches)]
